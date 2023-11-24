@@ -5,7 +5,7 @@ from datetime import datetime
 import pandas as pd
 
 
-API_KEY = "b8d470586f59072f5b7c5e482b609015"
+API_KEY = "YOUR_API"
 
 def fetch_weather():
     city = entry_city.get()
